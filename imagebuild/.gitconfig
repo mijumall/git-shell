@@ -1,0 +1,5 @@
+[user]
+	email = ichigo@example.com
+	name = Ichigo Hoshimiya
+[core]
+	editor = vim

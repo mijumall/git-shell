@@ -1,0 +1,6 @@
+services:
+  git:
+    image: git-shell
+    build:
+      context: ./imagebuild/
+      dockerfile: git-shell.Dockerfile
